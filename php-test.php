@@ -7,8 +7,10 @@
 <body>
 
 
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/mine/header.html'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/test/header.html'); ?>
 <!-- ルートパスでの指定 -->
+
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/test/footer.html'); ?>
 
 
 </body>
